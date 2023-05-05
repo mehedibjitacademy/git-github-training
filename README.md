@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Description
 
 This is an important component of your project that many new developers often overlook.
@@ -11,7 +12,39 @@ A good one takes advantage of the opportunity to explain and showcase in this pr
 - Some of the challenges you faced and features you hope to implement in the future
 
 # git-github-training
+=======
+# Table of Contents
+
+1. [Project's Title](#git-github-training)
+2. [Project Description](#project-description)
+3. [Installation](#installation)
+4. [Contributors](#contributors)
+
+## git-github-training
+>>>>>>> 1536a3fd6b4f099110077e17871d3fe7b28e71ee
 This repository is created to fulfil the requirements of the exam
+![Banner](banner.png)
+
+# Project Description
+This is an important component of your project that many new developers often overlook.
+Your description is an extremely important aspect of your project. A well-crafted description 
+allows you to show off your work to other developers as well as potential employers.
+The quality of a README description often differentiates a good project from a bad project. 
+A good one takes advantage of the opportunity to explain and showcase
+
+- What your application does,
+- Why you used the technologies you used,
+- Some of the challenges you faced and features you hope to implement in the future
+
+# Installation
+
+Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
+
+
+1. Get a free API Key at this [link]()
+2. Clone the repo <br><br>`https://github.com/mehedibjitacademy/git-github-training.git`.
+3. Install NPM packages <br><br>`npm install`<br>
+4. Enter your API Key in the `config.js` <br><br> const API_KEY = 'ENTER YOUR API';
 
 ## 4. Contributors
 
