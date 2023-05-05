@@ -1,5 +1,15 @@
-# Project Description
+# Table of Contents
 
+1. [Project's Title](#git-github-training)
+2. [Project Description](#project-description)
+3. [Installation](#installation)
+4. [Contributors](#contributors)
+
+## git-github-training
+This repository is created to fulfil the requirements of the exam
+![Banner](banner.png)
+
+# Project Description
 This is an important component of your project that many new developers often overlook.
 Your description is an extremely important aspect of your project. A well-crafted description 
 allows you to show off your work to other developers as well as potential employers.
@@ -19,9 +29,6 @@ Below is an example of how you can instruct your audience on installing and sett
 2. Clone the repo <br><br>`https://github.com/mehedibjitacademy/git-github-training.git`.
 3. Install NPM packages <br><br>`npm install`<br>
 4. Enter your API Key in the `config.js` <br><br> const API_KEY = 'ENTER YOUR API';
-
-# git-github-training
-This repository is created to fulfil the requirements of the exam
 
 ## 4. Contributors
 
